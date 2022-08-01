@@ -1,0 +1,14 @@
+[INFO]
+IP = 192.168.100.10
+
+[PRESETS]
+; eg: -600 = -60dB
+volpreset1 = -600
+volpreset2 = -550
+volpreset3 = -500
+volpreset4 = -450
+
+inpreset1 = NET RADIO
+inpreset2 = AUDIO3
+inpreset3 = USB
+inpreset4 = SERVER
